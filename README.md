@@ -4,7 +4,9 @@
 ## 日程安排
 
 1. 昆明
+
 ![昆明机场](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2295183443,3161269778&fm=200&gp=0.jpg)
+
 2. 大理
 3. 丽江
 4. 香格里拉
